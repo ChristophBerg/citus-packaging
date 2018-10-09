@@ -1,6 +1,6 @@
 pkgname=citus-ha
 hubproj=citus-ha
 pkgdesc='Citus HA'
-pkglatest=1.0.0
-releasepg=9.6,10
+pkglatest=1.0.0-1
+releasepg=10
 versioning=fancy
